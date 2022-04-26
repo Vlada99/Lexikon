@@ -1,0 +1,18 @@
+# Gitbefehle
+
+1. **VCS** (Versionsvewaltungssystem)
+2. **git** (Versionsverwaltung)
+3. **git repository** = kurz repo (Software-Projekt)
+4. **git status** (Zustand)
+5. **git commit -m *"Kommentar"*** (Versionsspeicherung *mit Kommentar*)
+6. **git branch *"Zweig-Name"*** (Zweig erstellen)
+7. **git checkout *"Zweig-Name"*** (auf den Zweig wechseln)
+8. **git add Ordner-Name** (Ordner hinzufügen)
+9. **git touch Datei-Name.md** (Datei hinzufügen)
+10. **git clone** (Kopie auf dem Rechner erstellen)
+11. **git push** (--> schieben)
+12. **git pull** (<-- ziehen, Änderungen vornehmen, übernehmen, bestätigen)
+13. **git pull request** ()
+14. **git remote** ()
+15. **git merge** (Versionen zusammenführen)
+16. **git init** ()
